@@ -1,1 +1,10 @@
-
+<Skills>
+  <Name="Bug report"> 
+  <Summary="Programm main menu: the "Edit" button is named incorrectly, as an "Edjt"> 
+  <STR="Open  the "ListBoxer" programm"> 
+  <Result="The "Edit" button is named as an “Edjt"> 
+  <Expected result="The "Edit" button is named as an “Edit"> 
+  <Reporter="Ida Voitkus"> 
+  <Priority="Lowest"> 
+  <Environment="Windows 10 Home, х64,Google Chrome v98.0.4758.102"> 
+</Skills>
