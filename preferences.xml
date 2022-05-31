@@ -1,8 +1,7 @@
-<Мои предпочтения>
-  <Любимый фильм="Законопослушный гражданин">
-  <Любимый сериал="Великолепный век">
-  <Любимая еда="Суши">
-  <Любимое время года="Лето">
-  <Страна, которую хотели бы посетить="США">
-</Мои предпочтения>
-
+<favorites>
+    <Movie>Law abiding citizen</Movie>
+    <Series>Magnificent century</Series>
+    <Food>Sushi</Food>
+    <Season>Summer</Season>
+</favorites>
+<countryToVisit>USA</countryToVisit>
